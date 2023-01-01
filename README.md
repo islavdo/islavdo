@@ -3,7 +3,7 @@
 <h3 align="center">Code writer from Russia 🇷🇺</h3>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=164DAE&width=500&height=54&lines=Now%2C+i'm+writing+my+1st+porject+on+GitHub;it's+Gmod-TSP%2C+special+control+panel+-;-+telegram+bot%2C+wich+can+control+servers+;on+Source+engine" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=164DAE&width=500&height=54&lines=Now%2C+i'm+writing+Gmod-TSCP%2C+special+control+panel+-;-+telegram+bot%2C+wich+can+control+servers+;on+Source+engine" alt="Typing SVG" /></a>
 
 
 
